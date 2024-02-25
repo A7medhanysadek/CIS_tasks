@@ -150,7 +150,7 @@ namespace CRUD_application
                 MessageBox.Show("the list is empty ):");
             else
             {
-                if (l.Contains(update_origin_lbl.Text))
+                if (l.Contains(update_txtBox_origin_value.Text))
                 {
                     int index = l.IndexOf(update_txtBox_origin_value.Text);
                     l.Remove(update_txtBox_origin_value.Text);

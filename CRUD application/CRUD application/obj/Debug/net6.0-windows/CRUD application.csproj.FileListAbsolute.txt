@@ -3,7 +3,6 @@ C:\Users\a7med\OneDrive\سطح المكتب\cis tasks\second week\CRUD applicati
 C:\Users\a7med\OneDrive\سطح المكتب\cis tasks\second week\CRUD application\CRUD application\bin\Debug\net6.0-windows\CRUD application.runtimeconfig.json
 C:\Users\a7med\OneDrive\سطح المكتب\cis tasks\second week\CRUD application\CRUD application\bin\Debug\net6.0-windows\CRUD application.dll
 C:\Users\a7med\OneDrive\سطح المكتب\cis tasks\second week\CRUD application\CRUD application\bin\Debug\net6.0-windows\CRUD application.pdb
-C:\Users\a7med\OneDrive\سطح المكتب\cis tasks\second week\CRUD application\CRUD application\obj\Debug\net6.0-windows\CRUD_application.Form1.resources
 C:\Users\a7med\OneDrive\سطح المكتب\cis tasks\second week\CRUD application\CRUD application\obj\Debug\net6.0-windows\CRUD application.csproj.GenerateResource.cache
 C:\Users\a7med\OneDrive\سطح المكتب\cis tasks\second week\CRUD application\CRUD application\obj\Debug\net6.0-windows\CRUD application.GeneratedMSBuildEditorConfig.editorconfig
 C:\Users\a7med\OneDrive\سطح المكتب\cis tasks\second week\CRUD application\CRUD application\obj\Debug\net6.0-windows\CRUD application.AssemblyInfoInputs.cache
@@ -14,3 +13,4 @@ C:\Users\a7med\OneDrive\سطح المكتب\cis tasks\second week\CRUD applicati
 C:\Users\a7med\OneDrive\سطح المكتب\cis tasks\second week\CRUD application\CRUD application\obj\Debug\net6.0-windows\CRUD application.pdb
 C:\Users\a7med\OneDrive\سطح المكتب\cis tasks\second week\CRUD application\CRUD application\obj\Debug\net6.0-windows\CRUD application.genruntimeconfig.cache
 C:\Users\a7med\OneDrive\سطح المكتب\cis tasks\second week\CRUD application\CRUD application\obj\Debug\net6.0-windows\ref\CRUD application.dll
+C:\Users\a7med\OneDrive\سطح المكتب\cis tasks\second week\CRUD application\CRUD application\obj\Debug\net6.0-windows\CRUD_application.database.resources

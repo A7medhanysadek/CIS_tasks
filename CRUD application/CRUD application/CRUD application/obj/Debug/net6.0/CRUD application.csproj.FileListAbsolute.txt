@@ -1,0 +1,14 @@
+C:\Users\a7med\OneDrive\سطح المكتب\cis tasks\second week\CRUD application\CRUD application\CRUD application\bin\Debug\net6.0\CRUD application.exe
+C:\Users\a7med\OneDrive\سطح المكتب\cis tasks\second week\CRUD application\CRUD application\CRUD application\bin\Debug\net6.0\CRUD application.deps.json
+C:\Users\a7med\OneDrive\سطح المكتب\cis tasks\second week\CRUD application\CRUD application\CRUD application\bin\Debug\net6.0\CRUD application.runtimeconfig.json
+C:\Users\a7med\OneDrive\سطح المكتب\cis tasks\second week\CRUD application\CRUD application\CRUD application\bin\Debug\net6.0\CRUD application.dll
+C:\Users\a7med\OneDrive\سطح المكتب\cis tasks\second week\CRUD application\CRUD application\CRUD application\bin\Debug\net6.0\CRUD application.pdb
+C:\Users\a7med\OneDrive\سطح المكتب\cis tasks\second week\CRUD application\CRUD application\CRUD application\obj\Debug\net6.0\CRUD application.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\a7med\OneDrive\سطح المكتب\cis tasks\second week\CRUD application\CRUD application\CRUD application\obj\Debug\net6.0\CRUD application.AssemblyInfoInputs.cache
+C:\Users\a7med\OneDrive\سطح المكتب\cis tasks\second week\CRUD application\CRUD application\CRUD application\obj\Debug\net6.0\CRUD application.AssemblyInfo.cs
+C:\Users\a7med\OneDrive\سطح المكتب\cis tasks\second week\CRUD application\CRUD application\CRUD application\obj\Debug\net6.0\CRUD application.csproj.CoreCompileInputs.cache
+C:\Users\a7med\OneDrive\سطح المكتب\cis tasks\second week\CRUD application\CRUD application\CRUD application\obj\Debug\net6.0\CRUD application.dll
+C:\Users\a7med\OneDrive\سطح المكتب\cis tasks\second week\CRUD application\CRUD application\CRUD application\obj\Debug\net6.0\refint\CRUD application.dll
+C:\Users\a7med\OneDrive\سطح المكتب\cis tasks\second week\CRUD application\CRUD application\CRUD application\obj\Debug\net6.0\CRUD application.pdb
+C:\Users\a7med\OneDrive\سطح المكتب\cis tasks\second week\CRUD application\CRUD application\CRUD application\obj\Debug\net6.0\CRUD application.genruntimeconfig.cache
+C:\Users\a7med\OneDrive\سطح المكتب\cis tasks\second week\CRUD application\CRUD application\CRUD application\obj\Debug\net6.0\ref\CRUD application.dll

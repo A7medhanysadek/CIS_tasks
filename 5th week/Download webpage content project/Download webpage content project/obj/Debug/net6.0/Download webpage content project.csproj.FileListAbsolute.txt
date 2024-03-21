@@ -1,0 +1,14 @@
+C:\Users\a7med\OneDrive\سطح المكتب\cis tasks\backend\second week\5th week\Download webpage content project\Download webpage content project\obj\Debug\net6.0\Download webpage content project.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\a7med\OneDrive\سطح المكتب\cis tasks\backend\second week\5th week\Download webpage content project\Download webpage content project\obj\Debug\net6.0\Download webpage content project.AssemblyInfoInputs.cache
+C:\Users\a7med\OneDrive\سطح المكتب\cis tasks\backend\second week\5th week\Download webpage content project\Download webpage content project\obj\Debug\net6.0\Download webpage content project.AssemblyInfo.cs
+C:\Users\a7med\OneDrive\سطح المكتب\cis tasks\backend\second week\5th week\Download webpage content project\Download webpage content project\obj\Debug\net6.0\Download webpage content project.csproj.CoreCompileInputs.cache
+C:\Users\a7med\OneDrive\سطح المكتب\cis tasks\backend\second week\5th week\Download webpage content project\Download webpage content project\bin\Debug\net6.0\Download webpage content project.exe
+C:\Users\a7med\OneDrive\سطح المكتب\cis tasks\backend\second week\5th week\Download webpage content project\Download webpage content project\bin\Debug\net6.0\Download webpage content project.deps.json
+C:\Users\a7med\OneDrive\سطح المكتب\cis tasks\backend\second week\5th week\Download webpage content project\Download webpage content project\bin\Debug\net6.0\Download webpage content project.runtimeconfig.json
+C:\Users\a7med\OneDrive\سطح المكتب\cis tasks\backend\second week\5th week\Download webpage content project\Download webpage content project\bin\Debug\net6.0\Download webpage content project.dll
+C:\Users\a7med\OneDrive\سطح المكتب\cis tasks\backend\second week\5th week\Download webpage content project\Download webpage content project\bin\Debug\net6.0\Download webpage content project.pdb
+C:\Users\a7med\OneDrive\سطح المكتب\cis tasks\backend\second week\5th week\Download webpage content project\Download webpage content project\obj\Debug\net6.0\Download webpage content project.dll
+C:\Users\a7med\OneDrive\سطح المكتب\cis tasks\backend\second week\5th week\Download webpage content project\Download webpage content project\obj\Debug\net6.0\refint\Download webpage content project.dll
+C:\Users\a7med\OneDrive\سطح المكتب\cis tasks\backend\second week\5th week\Download webpage content project\Download webpage content project\obj\Debug\net6.0\Download webpage content project.pdb
+C:\Users\a7med\OneDrive\سطح المكتب\cis tasks\backend\second week\5th week\Download webpage content project\Download webpage content project\obj\Debug\net6.0\Download webpage content project.genruntimeconfig.cache
+C:\Users\a7med\OneDrive\سطح المكتب\cis tasks\backend\second week\5th week\Download webpage content project\Download webpage content project\obj\Debug\net6.0\ref\Download webpage content project.dll

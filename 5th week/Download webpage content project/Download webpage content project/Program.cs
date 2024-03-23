@@ -29,12 +29,12 @@ namespace DownloadWebpageContent
                 }
                 List<char> content_of_chars = new List<char>();
                 content_of_chars=convert_from_string_to_list(await ReadWebpageContentAsync(URL));
-                content_of_chars.Sort();
+                content_of_chars.SortTheList();
                 for (int i = 0; i <= 100; i++)
                 {
-                    if (i%10==0)
+                    if (i % 10 == 0)
                     {
-                        Console.WriteLine(i+"% ...");
+                        Console.WriteLine(i + "% ...");
                         Thread.Sleep(1000);
                     }
                 }

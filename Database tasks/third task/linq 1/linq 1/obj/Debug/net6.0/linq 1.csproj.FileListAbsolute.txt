@@ -1,0 +1,28 @@
+C:\Users\a7med\OneDrive\سطح المكتب\cis tasks\backend\second week\Database tasks\third task\linq 1\linq 1\bin\Debug\net6.0\linq 1.exe
+C:\Users\a7med\OneDrive\سطح المكتب\cis tasks\backend\second week\Database tasks\third task\linq 1\linq 1\bin\Debug\net6.0\linq 1.deps.json
+C:\Users\a7med\OneDrive\سطح المكتب\cis tasks\backend\second week\Database tasks\third task\linq 1\linq 1\bin\Debug\net6.0\linq 1.runtimeconfig.json
+C:\Users\a7med\OneDrive\سطح المكتب\cis tasks\backend\second week\Database tasks\third task\linq 1\linq 1\bin\Debug\net6.0\linq 1.dll
+C:\Users\a7med\OneDrive\سطح المكتب\cis tasks\backend\second week\Database tasks\third task\linq 1\linq 1\bin\Debug\net6.0\linq 1.pdb
+C:\Users\a7med\OneDrive\سطح المكتب\cis tasks\backend\second week\Database tasks\third task\linq 1\linq 1\obj\Debug\net6.0\linq 1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\a7med\OneDrive\سطح المكتب\cis tasks\backend\second week\Database tasks\third task\linq 1\linq 1\obj\Debug\net6.0\linq 1.AssemblyInfoInputs.cache
+C:\Users\a7med\OneDrive\سطح المكتب\cis tasks\backend\second week\Database tasks\third task\linq 1\linq 1\obj\Debug\net6.0\linq 1.AssemblyInfo.cs
+C:\Users\a7med\OneDrive\سطح المكتب\cis tasks\backend\second week\Database tasks\third task\linq 1\linq 1\obj\Debug\net6.0\linq 1.csproj.CoreCompileInputs.cache
+C:\Users\a7med\OneDrive\سطح المكتب\cis tasks\backend\second week\Database tasks\third task\linq 1\linq 1\obj\Debug\net6.0\linq 1.dll
+C:\Users\a7med\OneDrive\سطح المكتب\cis tasks\backend\second week\Database tasks\third task\linq 1\linq 1\obj\Debug\net6.0\refint\linq 1.dll
+C:\Users\a7med\OneDrive\سطح المكتب\cis tasks\backend\second week\Database tasks\third task\linq 1\linq 1\obj\Debug\net6.0\linq 1.pdb
+C:\Users\a7med\OneDrive\سطح المكتب\cis tasks\backend\second week\Database tasks\third task\linq 1\linq 1\obj\Debug\net6.0\linq 1.genruntimeconfig.cache
+C:\Users\a7med\OneDrive\سطح المكتب\cis tasks\backend\second week\Database tasks\third task\linq 1\linq 1\obj\Debug\net6.0\ref\linq 1.dll
+C:\Users\a7med\OneDrive\سطح المكتب\CIS\backend\second week\Database tasks\third task\linq 1\linq 1\bin\Debug\net6.0\linq 1.exe
+C:\Users\a7med\OneDrive\سطح المكتب\CIS\backend\second week\Database tasks\third task\linq 1\linq 1\bin\Debug\net6.0\linq 1.deps.json
+C:\Users\a7med\OneDrive\سطح المكتب\CIS\backend\second week\Database tasks\third task\linq 1\linq 1\bin\Debug\net6.0\linq 1.runtimeconfig.json
+C:\Users\a7med\OneDrive\سطح المكتب\CIS\backend\second week\Database tasks\third task\linq 1\linq 1\bin\Debug\net6.0\linq 1.dll
+C:\Users\a7med\OneDrive\سطح المكتب\CIS\backend\second week\Database tasks\third task\linq 1\linq 1\bin\Debug\net6.0\linq 1.pdb
+C:\Users\a7med\OneDrive\سطح المكتب\CIS\backend\second week\Database tasks\third task\linq 1\linq 1\obj\Debug\net6.0\linq 1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\a7med\OneDrive\سطح المكتب\CIS\backend\second week\Database tasks\third task\linq 1\linq 1\obj\Debug\net6.0\linq 1.AssemblyInfoInputs.cache
+C:\Users\a7med\OneDrive\سطح المكتب\CIS\backend\second week\Database tasks\third task\linq 1\linq 1\obj\Debug\net6.0\linq 1.AssemblyInfo.cs
+C:\Users\a7med\OneDrive\سطح المكتب\CIS\backend\second week\Database tasks\third task\linq 1\linq 1\obj\Debug\net6.0\linq 1.csproj.CoreCompileInputs.cache
+C:\Users\a7med\OneDrive\سطح المكتب\CIS\backend\second week\Database tasks\third task\linq 1\linq 1\obj\Debug\net6.0\linq 1.dll
+C:\Users\a7med\OneDrive\سطح المكتب\CIS\backend\second week\Database tasks\third task\linq 1\linq 1\obj\Debug\net6.0\refint\linq 1.dll
+C:\Users\a7med\OneDrive\سطح المكتب\CIS\backend\second week\Database tasks\third task\linq 1\linq 1\obj\Debug\net6.0\linq 1.pdb
+C:\Users\a7med\OneDrive\سطح المكتب\CIS\backend\second week\Database tasks\third task\linq 1\linq 1\obj\Debug\net6.0\linq 1.genruntimeconfig.cache
+C:\Users\a7med\OneDrive\سطح المكتب\CIS\backend\second week\Database tasks\third task\linq 1\linq 1\obj\Debug\net6.0\ref\linq 1.dll
